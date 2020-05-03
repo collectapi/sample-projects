@@ -16,7 +16,8 @@ collectapi
 
 
 
- collectapi's Python package. Simply calling collection data with less fuzz.
+
+A tool that helps you make collectapi calls dwith less fuzz.
 
 
 * Free software: MIT license
@@ -28,10 +29,4 @@ Features
 
 * TODO
 
-Credits
--------
 
-This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
-
-.. _Cookiecutter: https://github.com/audreyr/cookiecutter
-.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
