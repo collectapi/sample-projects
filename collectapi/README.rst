@@ -16,7 +16,7 @@ collectapi
 
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
+ collectapi's Python package. Simply calling collection data with less fuzz.
 
 
 * Free software: MIT license
